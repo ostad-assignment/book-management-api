@@ -1,0 +1,10 @@
+{
+  "name": "book-management-api",
+  "version": "1.0.0",
+  "description": "RESTful API for book management",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  }
+}
